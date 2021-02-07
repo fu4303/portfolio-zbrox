@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zbrox.com/sitemap.xml
